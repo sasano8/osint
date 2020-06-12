@@ -6,7 +6,9 @@
 ## https://www.exploit-db.com/google-hacking-database
 ハックに有益なgoogleクエリのデータベース
 
-
+# tools
+- [linkedIn](https://github.com/m8r0wn/CrossLinked)
+- [twitter](https://kurozumi.github.io/tweepy/)
 
 # pagefileから調査の手がかりを得る
 ```
